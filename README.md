@@ -1,1 +1,11 @@
 # Day_2_HTML_Class
+task.html(nestedlist)
+![image](https://github.com/user-attachments/assets/cee4e584-4604-4e08-bf8f-6c3a35dbc51e)
+task2.html(nestedlist)
+![image](https://github.com/user-attachments/assets/3c9577de-0a40-4996-bf49-b06e48552020)
+task3.html(table)
+![image](https://github.com/user-attachments/assets/e2b37676-a317-43af-b25d-a190b56942dc)
+task4.html(table)
+![image](https://github.com/user-attachments/assets/8246732d-14bf-470a-a843-84f720a0bf01)
+practice.html(form)
+![image](https://github.com/user-attachments/assets/85b54672-8547-407c-b7c4-3ca97f285f00)
